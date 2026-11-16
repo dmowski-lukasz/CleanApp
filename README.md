@@ -76,11 +76,11 @@ Employee username and password can be changed later in Settings view.
 
 ![Login](Screenshots/01%20login.jpg)
 
-### Add Order
+### Add Order View
 
 ![Add Order](Screenshots/03%20add.jpg)
 
-### Order Details
+### View Orders View
 
 ![Order Details](Screenshots/04%20view.jpg)
 
@@ -88,9 +88,13 @@ Employee username and password can be changed later in Settings view.
 
 ![Information](Screenshots/05%20info.jpg)
 
-### Settings
+### Settings View
 
 ![Settings](Screenshots/06%20settings.jpg)
+
+### Pdf Result (DL format)
+
+![Settings](Screenshots/07%20pdf.jpg)
 
 ## Development Journey
 
@@ -115,6 +119,7 @@ This project started as a simple WPF learning application and over months evolve
 ### 09 2026
 - Moving an application to SQLite and EF Core / building SQL data structure (1 Enterprise -> N Orders -> N Items)
 - Adding Settings and Info views
+- Adding pagination of large collections
 - Adding user roles and password management functionality
 - Adding enterprise info management functionality
 - Introducing database backup functionality
